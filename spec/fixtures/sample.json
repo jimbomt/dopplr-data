@@ -1,0 +1,24 @@
+{
+   "trips":[
+      {
+         "city":{
+            "country_code":"DE",
+            "name":"Saarbr\u00fccken, Landeshauptstadt",
+            "woeid":"690631",
+            "latitude":49.2461,
+            "rgb":"77b8b0",
+            "country":"Germany",
+            "url":"http:\/\/www.dopplr.com\/place\/de\/saarbr%C3%BCcken,-landeshauptstadt",
+            "longitude":7.0022,
+            "geoname_id":6551163
+         },
+         "finish":"2008-03-13",
+         "return_transport_type":"plane",
+         "outgoing_transport_type":"plane",
+         "tag":["meeting","super"],
+         "url":"http:\/\/www.dopplr.com\/trip\/jamesscicluna\/87269",
+         "id":87269,
+         "start":"2008-03-10"
+      }
+   ]
+}
