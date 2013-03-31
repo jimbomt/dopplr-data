@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "parser for JSON data pulled from dopplr.com"
   s.authors     = ["James Scicluna"]
   s.email       = 'james.scicluna@gmail.com'
-  s.files       = ["lib/dopplr-data.rb"]
+  #s.files       = ["lib/dopplr-data.rb"]
   s.homepage    ='TODO'
   
   # inclusions
